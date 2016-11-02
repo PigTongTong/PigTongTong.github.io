@@ -6,7 +6,6 @@ exclude: ["README.md"] # files to exclude
 highlighter: pygments
 markdown: kramdown
 disqus: HaYuneJ
-google_analytics: jhy33514
 title: Hyoil & TechPang Dev
 
 defaults:
