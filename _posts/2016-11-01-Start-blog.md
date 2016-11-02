@@ -6,7 +6,7 @@ tags: [jekyll,blog]
 comments: true
 ---
 
-Start GitHub Blog.
+###Start GitHub Blog.
 
 GitHub에 블로그를 만드는 방법에는 여러가지 방법이 있다.
 GitHub Page를 만들어 html, css, js파일등을 직접업로드 하거나
