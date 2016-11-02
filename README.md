@@ -10,5 +10,4 @@ HaYune J Blog
 E-mail : [jhy33514@techpang.com](mailto:jhy33514@techpang.com)
 
 ### License
-- [MIT](http://opensource.org/licenses/MIT)
 
