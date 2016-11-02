@@ -23,6 +23,7 @@ author:
   github: PigTongTong
   bio: Android Dev
 
+rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
 
