@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: What is the CleanCode?
 categories: [Design, pattern]
