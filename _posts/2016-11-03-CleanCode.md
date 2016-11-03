@@ -1,4 +1,4 @@
----
+ï»¿---
 layout: post
 title: What is the CleanCode?
 categories: [Design, pattern]
@@ -8,4 +8,4 @@ comments: true
 
 **What is the CleanCode?**
 
-³ª´Â ¿ì¾ÆÇÏ°í È¿À²ÀûÀÎ ÄÚµå¸¦ ÁÁ¾ÆÇÑ´Ù.
+ë‚˜ëŠ” ìš°ì•„í•˜ê³  íš¨ìœ¨ì ì¸ ì½”ë“œë¥¼ ì¢‹ì•„í•œë‹¤.
