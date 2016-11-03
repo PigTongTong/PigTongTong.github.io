@@ -26,22 +26,22 @@ comments: true
 <br /><br /><br />
 **What is the rule of cleancode?**
 <br /><br />
-1. 의미있는 이름(Naming)
+1. 의미있는 이름(Naming)<br />
 네이밍을 할때에는 존재의 이유, 어떤 용도, 사용 방법을 명시해주어야 한다.
 <br /><br />
-2. 명확하고 간결하게 주석달기(Comment)
+2. 명확하고 간결하게 주석달기(Comment)<br />
 필요 없는 주석이나 필요 이상으로 긴 주석은 가독성을 해치므로<br /> 
 필요한 경우에만 간결하고 명확하게 작성하여야 한다.
 <br /><br />
-3. 보기좋게 배치하고 꾸며라(Aesthetics)
+3. 보기좋게 배치하고 꾸며라(Aesthetics)<br />
 반복되는 것끼리, 유사성이 높은 것끼리 묶어서 배치해야 한다.
 <br /><br />
-4. 착한 함수(Fuction)
+4. 착한 함수(Fuction)<br />
 함수는 가능한 작게 만들고 다른 함수들과의 의존성을 낮게 만들어야 한다.
 <br /><br />
-5. 읽기 쉽게 흐름제어 만들기(Making control flow easy to read)
+5. 읽기 쉽게 흐름제어 만들기(Making control flow easy to read)<br />
 조건문이나 반복문의 경우 긍정적이고 간단하고 흥미로운 표현이 앞쪽에 위치해야 한다.<br />
 삼항연산자나 do/while, goto 구문은 가독성을 해치므로 if, while 등으로 변경해서 사용한다.
 <br /><br />
-6. 오류처리(Error handling)
+6. 오류처리(Error handling)<br />
 중첩된 if문으로 예외를 거르는것 보다는 try-catch 구문과 함수를 사용하는것이 좋다.
