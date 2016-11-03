@@ -47,5 +47,5 @@ comments: true
 중첩된 if문으로 예외를 거르는것 보다는 try-catch 구문과 함수를 사용하는것이 좋다.<br />
 <br /><br />
 *참조*<br />
-[다운로드](/assets/pdf/118호_공학_트렌드_클린코드_Part_1_이해와_규칙_해상도수정.pdf)<br />
-[다운로드](/assets/pdf/119호_공학_트렌드_클린코드_Part_2_적용과_개선.pdf)
+[클린코드_Part_1](/assets/pdf/118호_공학_트렌드_클린코드_Part_1_이해와_규칙_해상도수정.pdf)<br />
+[클린코드_Part_2](/assets/pdf/119호_공학_트렌드_클린코드_Part_2_적용과_개선.pdf)
